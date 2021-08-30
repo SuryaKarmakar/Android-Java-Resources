@@ -1,6 +1,6 @@
 # Android-Java-Resources
 A to Z Android Java Resources List (Code, Document, Tutorial etc)
 
-## Code List :
-1. [Hello World](https://github.com/SuryaKarmakar/AndroidJava-HelloWorld) 
-3. Toast => https://github.com/SuryaKarmakar/AndroidJava-Toast
+## Basic Android Components :
+
+- [Android Toast](https://github.com/SuryaKarmakar/AndroidJava-Toast)
